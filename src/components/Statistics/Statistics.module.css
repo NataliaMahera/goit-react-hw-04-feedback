@@ -1,0 +1,9 @@
+.list {
+    list-style: inside;
+}
+
+.feedback {
+   font-size: 24px;
+   color: rgb(168, 241, 168);
+   margin: auto;
+}

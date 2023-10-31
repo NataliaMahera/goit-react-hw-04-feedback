@@ -1,0 +1,19 @@
+.btnWrapper {
+    display: flex;
+    gap: 20px;
+}
+.btn {
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(168, 241, 168);
+    color: rgb(26, 44, 39);
+}
+
+.btn:hover {
+    background-color:rgb(124, 250, 124);
+    color: rgb(62, 83, 77);
+    transform: scale(1.1);
+    transition: width 2s
+}
